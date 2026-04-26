@@ -1,0 +1,8 @@
+{
+  "name": "HortiFresh Online",
+  "description": "A professional and complete online fresh produce platform for selling fruits, vegetables, and natural products with admin management and smart features.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
